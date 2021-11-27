@@ -1,0 +1,19 @@
+{
+  "name": "blog.tayko.co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR-WORST-TACO/blog.tayko.co.git"
+  },
+  "author": "taco (stephen tafoya)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YOUR-WORST-TACO/blog.tayko.co/issues"
+  },
+  "homepage": "https://github.com/YOUR-WORST-TACO/blog.tayko.co#readme"
+}
